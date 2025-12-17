@@ -1,0 +1,22 @@
+tiv = {
+    "hello": "m ngu ve",
+    "goodbye": "a lu u",
+    "water": "am",
+    "food": "yan",
+    "house": "tar",
+    "school": "tar shin",
+    "book": "kwagh",
+    "love": "ishima",
+    "friend": "mbayev",
+    "family": "kwav",
+    "money": "kuve",
+    "market": "mngohol",
+    "sun": "anyi",
+    "moon": "iwer",
+    "rain": "kwagh u van",
+    "fire": "ya",
+    "road": "kwase",
+    "child": "wan",
+    "man": "or",
+    "woman": "kwase-or"
+}
